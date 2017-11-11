@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-node",
+  "version": "1.0.0",
+  "description": "trying to create application using nodeJs and React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeingArindam/ReactNode.git"
+  },
+  "author": "Arindam Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeingArindam/ReactNode/issues"
+  },
+  "homepage": "https://github.com/BeingArindam/ReactNode#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1",
+    "webpack": "^3.8.1"
+  }
+}
