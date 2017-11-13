@@ -1,0 +1,25 @@
+{
+    "contests" : [
+        {
+            "id": 1,
+            "catagoryName" : "Business/Company",
+            "contestName" : "Cogizant Technology Solutions"
+        },
+        {
+            "id": 2,
+            "catagoryName" : "Technology/Company",
+            "contestName" : "Synergy System Solutions"
+        },
+        {
+            "id": 3,
+            "catago ryName" : "Business/Company",
+            "contestName" : "Tata Consultancy Services"
+        },
+        {
+            "id": 4,
+            "catagoryName" : "Technology/Company",
+            "contestName" : "UST Global"
+        }
+
+    ]
+}
